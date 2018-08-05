@@ -7,9 +7,9 @@ This code book summarizes the resulting data fields in tidy.txt.
 ## Measurements
 ### Time-domain signals
 * Average time-domain body acceleration in the X, Y and Z directions:
-** tBodyAccMeanX
-** tBodyAccMeanY
-** tBodyAccMeanZ
+  ** tBodyAccMeanX
+  ** tBodyAccMeanY
+  ** tBodyAccMeanZ
 * tBodyAccStdX
 * tBodyAccStdY
 * tBodyAccStdZ
