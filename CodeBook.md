@@ -5,11 +5,9 @@ This code book summarizes the resulting data fields in tidy.txt.
 * subject - The ID of the test subject.
 * activity - The type of activity performed when the corresponding measurements were taken.
 ## Measurements
-### Time-domain signals
-* Average time-domain body acceleration in the X, Y and Z directions:
-  * tBodyAccMeanX
-  * tBodyAccMeanY
-  * tBodyAccMeanZ
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
 * tBodyAccStdX
 * tBodyAccStdY
 * tBodyAccStdZ
